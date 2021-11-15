@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Emir-ATPC
-- 👀 I’m interested in ...
 - 🌱 I’m currently studying at Conservatoire national des arts et métiers 
 - 🔧 My github is repo under construction
 

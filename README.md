@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emir-ATPC
-- 🌱 I’m currently studying at Conservatoire national des arts et métiers 
+- 🌱 I’m currently studying at EPITA 
 - 🔧 My github is repo under construction
 
 <!---
